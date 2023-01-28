@@ -10,6 +10,6 @@
 - Algoritmos
 
 ## 
-## Vamos nessa comigo, avante!!
+### Vamos nessa com C e C++ avante...!!
 #
 
