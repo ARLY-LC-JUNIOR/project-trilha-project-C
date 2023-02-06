@@ -1,10 +1,10 @@
 // Neste programa iremos calcular o resistor limitador de corrente para o Led usando a Lei de Ohm.
-// R = Vin - Viled / (dividido pela corrente que o led precisa Iled)
+// R = Vin - Viled / (dividido pela corrente que o led precisa Iled).
 
 #include<stdio.h>
 #include<stdlib.h>
 #include<locale.h>
-
+s
 
 float Vin =  0.0,
       Vled = 0.0,
