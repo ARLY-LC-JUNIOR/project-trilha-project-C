@@ -4,7 +4,7 @@
  - C  é uma linguagem utilizada em praticamente todos os tipos de hardware e software, até hoje a maioria dos softwares mais poderosos são feitos em C e/ou C++ (um super conjunto de C, orientado à objetos), vídeo, robôs, sistemas de automação, e também muitos sistemas operacionais são programados totalmente ou parcialmente em C, o que me incentivou, e incentivo a você também, repensar e voltar no tempo e reaprender a programar em C | C++ | C#, poderosas linguagens.
  
 ## O que será será proposto
--  **​:world_map: Projetos** em C (Em 6.02 inserção de projeto Lei de Ohms. Neste programa será calculaddo o resistor limitador de corrente para o Led usando a Lei de Ohms. R = Vin - Viled / (dividido pela corrente Iled ).
+-  **​:world_map: Projetos em C:** (Em 6.02 foi inserido um projeto (Projeto Lei de Ohms). Neste programa será calculaddo o resistor limitador de corrente para o Led usando a Lei de Ohms. R = Vin - Viled / (dividido pela corrente Iled ).
 -  Desafios 
 - Programação gráfica
 - Algoritmos
