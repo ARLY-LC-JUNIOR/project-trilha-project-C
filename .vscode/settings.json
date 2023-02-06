@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "*.rmd": "markdown",
+        "LED_calc.C": "cpp"
+    },
+    "C_Cpp.errorSquiggles": "disabled"
+}
