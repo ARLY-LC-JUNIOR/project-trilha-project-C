@@ -1,4 +1,4 @@
-//Linhas abaixo as 1, 2 e 3 Chamam as bibliotecas.
+//Linhas abaixo as 1, 2 e 3 Chamam as bibliotecas..
 
 #include<stdio.h>
 #include<stdlib.h>
